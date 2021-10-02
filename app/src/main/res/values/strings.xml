@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Guia 5</string>
+    <string name="btn_conversations">Conversations</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_calculadora">Calculadora</string>
+
+    <string name="btn_VerDatos">Ver datos</string>
+    <string name="tv_datos">Mis datos</string>
+    <string name="tv_Nombre">Nombre: Juan Carlos Molina Chamel</string>
+    <string name="tv_Codigo">Código: MC17-I04-004</string>
+</resources>
